@@ -1,12 +1,4 @@
 # typescript-crash-course
-
-## Setting up Development Tools
-Tool | Purpose
------|-------
-node | For running JavaScript code from command-line
-npm | Node Package Manage - Download new node packages and feature. Similar to maven
-tsc | TypeScript compiler
-
 ## What is TypeScript?
 * Language developed by Microsoft in 2012 - Free and Open source
 * Provides static typing support to JavaScript. It has IDE Support: code completion and debugging
@@ -16,6 +8,13 @@ tsc | TypeScript compiler
 * The Angular framework is internally developed using typescript
 * Docs, online blogs and tutorials use TypeScript for coding examples
 * For complete reference - www.typescriptlang.org
+
+## Setting up Development Tools
+Tool | Purpose
+-----|-------
+node | For running JavaScript code from command-line
+npm | Node Package Manage - Download new node packages and feature. Similar to maven
+tsc | TypeScript compiler
 
 ## TypeScript - Terminology
 * First TypeScript Application - [Example](01-hellowworld/myhelloworld.ts)
