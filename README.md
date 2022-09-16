@@ -96,6 +96,10 @@ private | Property is only accessible in current class
     * Classes implement the interface accordingly
     * A class can implement multiple inheritances
 
+* Compiling and Executing the TypeScript
+    * **tsc \<fileName.ts\>** - to compile the specific file or type tsc to compile all the typescript files in directory.
+    * **node \<fileName.js\>** - to run the java script file
+
 
 
 
