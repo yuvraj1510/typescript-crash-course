@@ -1,4 +1,4 @@
-# typescipt-crash-course
+# typescript-crash-course
 ## What is Angular?
 * Angular is a framework for building modern single-page application.
 * **Official docs tutorials** - www.angular.io
