@@ -7,8 +7,8 @@
 * Each user action results in a full HTML page load.
 ```mermaid
 sequenceDiagram
-Browser->Server: Full HTML Page Loads
-Server->Browser
+Browser->>Server: Full HTML Page Loads
+Server-->>Browser: 
 ```
 
  
