@@ -43,16 +43,32 @@ tsc | TypeScript compiler
 * For complete reference - www.typescriptlang.org
 
 ## TypeScript - Fundamentals
-* First TypeScript Application - [Example](fundamentals/myhelloworld.ts)
+* First TypeScript Application - [Example](01-hellowworld/myhelloworld.ts)
+
 * Defining Variables:
+    * **Syntax** - let \<variableName\>: \<type\> = \<initial value\>;
 
 Type | Description | Example
 -----|------------|--------
-boolean| true/false values | [Example]()
-number | supports integer and floating point | [Example]()
-string | text data. enclosed in single or double quotes | [Example]()
-any | Supports "any" datatype assignment | [Example]()
+boolean| true/false values | [Example](02-variables/variable-types.ts)
+number | supports integer and floating point | [Example](02-variables/variable-types.ts)
+string | text data. enclosed in single or double quotes | [Example](02-variables/variable-types.ts)
+any | Supports "any" datatype assignment | [Example](02-variables/variable-types.ts)
 others | See details at www.typescriptlang.org
+
+* Loop and Arrays - [Example](03-loops-and-arrays)
+
+* Access Modifiers
+
+Modifier | Definition
+---------|-----------
+public | Property is accessible to all classes (default modifier)
+protected | Property is only accessible in current and sub classes
+private | Property is only accessible in current class
+
+* Classes - [Example](04-classes)
+
+
 
 
 
