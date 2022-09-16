@@ -9,6 +9,6 @@
 sequenceDiagram
 Browser->Server: Full HTML Page Loads
 Server->Browser
-``
+```
 
  
