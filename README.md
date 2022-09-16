@@ -78,20 +78,20 @@ private | Property is only accessible in current class
     * import - import {\<ClassName\>} from "\<Absolute Path of the file whereclass is defined\>" - [Example](04-classes/05-modules/driver.ts)
     * export - just add export before class name - [Example](04-classes/05-modules/customer.ts)
 
-* Inheritance
+* Inheritance - [Example](05-inheritance)
     * Define common properties and methods in the superclass
     * Subclasses can extend superclasses and add properties and methods
     * Support for abstract classes and overriding
     * Support only single inheritance
     * However we can implement multiple interfaces
 
-* Abstract Class
+* Abstract Class - [Example](06-abstract-classes)
     * An abstract class represents a general concept - for example: Shape, Vehicle, Computer etc...
     * We can't create an instance of an abstract class
     * Abstract class can also have abstract method(s)
     * Abstract method must be implemented by concrete subclasses
 
-* Interfaces
+* Interfaces - [Example](07-interfaces)
     * Define an interface with a method contract
     * Classes implement the interface accordingly
     * A class can implement multiple inheritances
