@@ -6,8 +6,9 @@
 ## Traditional Application
 * Each user action results in a full HTML page load.
 ```mermaid
-Browser -> Server : Full HTML Page Loads
-Server -> Browser
+sequenceDiagram
+Browser->Server: Full HTML Page Loads
+Server->Browser
 ``
 
  
