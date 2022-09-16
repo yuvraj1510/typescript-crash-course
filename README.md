@@ -67,14 +67,16 @@ protected | Property is only accessible in current and sub classes
 private | Property is only accessible in current class
 
 * Classes
-    * Class Deginition - [Example](04-classes/01-class-definition/customer.ts)
+    * Class Definition - [Example](04-classes/01-class-definition/customer.ts)
     * Access Modifiers - [Example](04-classes/02-access-modifiers/customer.ts)
     * Parameter Properties - [Example](04-classes/04-parameter-properties/customer.ts)
 
 * tsconfig
     * Configuration file for TypeScript - [Example](04-classes/03-tsconfig/customer.ts)
 
-
+* Module import and export
+    * import - import {\<ClassName\>} from "\<Absolute Path of the file whereclass is defined\>" - [Example](04-classes/05-modules/driver.ts)
+    * export - just add export before class name - [Example](04-classes/05-modules/customer.ts) 
 
 
 
