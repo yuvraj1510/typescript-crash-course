@@ -42,7 +42,7 @@ tsc | TypeScript compiler
 * Docs, online blogs and tutorials use TypeScript for coding examples
 * For complete reference - www.typescriptlang.org
 
-## TypeScript - Fundamentals
+## TypeScript - Terminology
 * First TypeScript Application - [Example](01-hellowworld/myhelloworld.ts)
 
 * Defining Variables:
@@ -66,7 +66,15 @@ public | Property is accessible to all classes (default modifier)
 protected | Property is only accessible in current and sub classes
 private | Property is only accessible in current class
 
-* Classes - [Example](04-classes)
+* Classes
+    * Class Deginition - [Example](04-classes/01-class-definition/customer.ts)
+    * Access Modifiers - [Example](04-classes/02-access-modifiers/customer.ts)
+    * Parameter Properties - [Example](04-classes/04-parameter-properties/customer.ts)
+
+* tsconfig
+    * Configuration file for TypeScript - [Example](04-classes/03-tsconfig/customer.ts)
+
+
 
 
 
